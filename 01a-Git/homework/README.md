@@ -32,7 +32,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
 ```
 
 "Touch" creará un nuevo archivo.
-```bash
+```bash 
   $ touch [nombre del archivo]
 ```
 
